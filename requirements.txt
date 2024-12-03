@@ -7,4 +7,3 @@ tensorflow
 joblib
 plotly
 streamlit-folium
-tensorflow==2.12.0
