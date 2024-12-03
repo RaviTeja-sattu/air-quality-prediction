@@ -6,7 +6,7 @@ tensorflow
 joblib
 plotly
 streamlit-folium
-keras==2.13.1
-tensorflow==2.15.0
-segmentation-models-3d==1.0.7
-numpy==1.26.4
+keras
+tensorflow
+segmentation-models-3d
+numpy
