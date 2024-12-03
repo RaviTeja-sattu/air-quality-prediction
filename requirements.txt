@@ -6,3 +6,4 @@ scikit-learn
 tensorflow
 joblib
 plotly
+streamlit-folium
